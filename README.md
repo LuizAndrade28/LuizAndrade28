@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luiz</h1>
 <br>
-<h3 align="center">A passionate Junior Web Developer from Brazil, with a background in Law and Marketing.</h3>
+<h3 align="left">A passionate Junior Web Developer from Brazil, with a background in Law and Marketing.</h3>
 <br>
 
 - 🌱 I’m currently learning **JavaScript!**
@@ -10,8 +10,8 @@
 - 💬 Ask me about **Ruby, HTMl5, CSS3, Boostrap**
 
 - 📫 How to reach me **lcfsandrade@gmail.com** or https://linkedin.com/in/lcfandrade
-
-My final Bootcamp project:
+<br>
+<h3>My final Bootcamp project:</h3>
 - [The Savior](https://github.com/josimar-cmachado/the-savior)
 
 <br>
