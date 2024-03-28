@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luiz</h1>
 <br>
-<h3 align="center">A passionate full-stack developer from Brazil</h3>
-
+<h3 align="center">A passionate full-stack developer from Brazil, with a background in Law and Marketing.</h3>
+<br>
 - 🌱 I’m currently learning **JavaScript!**
 
 - 👯 I’m looking to collaborate on **new cool projects!**
