@@ -13,7 +13,7 @@
 <br>
 <h3>My final Bootcamp project:</h3>
 
-- [The Savior](https://github.com/josimar-cmachado/the-savior)
+- [The Savior](https://github.com/josimar-cmachado/the-savior): designed to help engaged couples manage their wedding
 
 <br>
 <h3 align="center">Languages and Tools I work with:</h3>
