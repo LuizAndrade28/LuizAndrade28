@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **new cool projects!**
 
-- 💬 Ask me about **Ruby, HTMl5, CSS3, Boostrap**
+- 💬 Ask me about **Ruby, HTML5, CSS3, Boostrap**
 
 - 📫 How to reach me **lcfsandrade@gmail.com** or https://linkedin.com/in/lcfandrade
 <br>
